@@ -4,3 +4,5 @@
 4. git 1/2
 lalalalalala
 5 github
+6 pygame
+7 oop
