@@ -6,3 +6,5 @@ lalalalalala
 5 github
 6. podminky
 7. nannaan
+8. pygame
+9. oop
